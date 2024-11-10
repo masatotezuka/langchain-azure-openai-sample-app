@@ -7,7 +7,7 @@
 1. リポジトリのクローン
 
 ```
-git clone XXX
+git clone https://github.com/masatotezuka/langchain-azure-openai-sample-app.git
 ```
 
 2. 環境変数の設定
